@@ -69,6 +69,7 @@ Or, try the latest (unstable) development version from GitHub::
 
     $ git clone https://github.com/romanz/amodem.git
     $ cd amodem
+    $ git checkout v1.9
     $ pip install --user -e .
 
 For graphs and visualization (optional), install `matplotlib` Python package.
